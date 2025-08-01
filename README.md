@@ -1,6 +1,7 @@
-# Ultimate Next.js 15, Typescript and Supabase Course: Build a Full-Featured Slack Clone
 
-Welcome to the Ultimate Next.js 15, TypeScript and Supabase Course! In this course, you'll learn how to build a fully-featured Slack clone from scratch. This README will guide you through setting up the project and running the course.
+# Ultimate Next.js 15, Typescript and Supabase Course: Build a Full-Featured CollabHub clone
+
+Welcome to the Ultimate Next.js 15, TypeScript and Supabase Course! In this course, you'll learn how to build a fully-featured CollabHub clone from scratch. This README will guide you through setting up the project and running the course.
 
 ## Prerequisites
 
@@ -17,8 +18,8 @@ Follow these steps to set up the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/laribright/slack-clone.git
-   cd slack-clone
+   git clone https://github.com/Jawad-Naqvi/COLLABHUB/tree/main
+   cd CollabHub
    ```
 
 2. **Install Dependencies:**
@@ -45,7 +46,7 @@ Follow these steps to set up the project:
 
 ## Course Structure
 
-This course is divided into multiple modules, each covering different aspects of building the Slack clone. The modules include:
+This course is divided into multiple modules, each covering different aspects of building the CollabHub clone. The modules include:
 
 - Setting up Next.js and TypeScript
 - Configuring Supabase (RPC, Storage, SQL, Role Level Security)
@@ -70,13 +71,6 @@ For detailed documentation and additional resources, refer to the `docs.tsx` fil
 
 Make sure to properly configure your environment variables by referring to the `.env.example` file. This file contains example values and instructions on what needs to be filled in.
 
-## Course Video
-
-Watch the full course on YouTube: [Ultimate Next.js 15, Typescript and Supabase Course: Build a Full-Featured Slack Clone](https://youtu.be/3D8Q_BMurfs)
-
-Part 2
-Watch the full course on YouTube: [Ultimate Next.js 15, Typescript and Supabase Course: Build a Full-Featured Slack Clone](https://youtu.be/LX3zttE15s4)
-
 ## Community and Support
 
 If you have any questions, need further help, or want to engage with other learners, join our Discord group. Here, you can get personalized mentorship, ask questions, and share your progress.
@@ -92,3 +86,5 @@ If you find this course helpful, please give this repository a star to show your
 ---
 
 Happy coding! Let's build something amazing together.
+ 
+ 
